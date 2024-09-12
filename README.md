@@ -10,5 +10,7 @@
 (https://colab.research.google.com/drive/1WAwvApXWES8MD_6X5yNuwRs9t8cw8QDd)
 #lab-04
 (https://colab.research.google.com/drive/153OvVaQrPVB0PwnM2funCvUZlcXDc2DD#scrollTo=p4xmRxs10k_t)
+lab-05
+(https://colab.research.google.com/drive/1kn_tt5nY79xahZNJQuvMx1IKJnQAtfg7#scrollTo=JahGEqIE_D0v)
 
 
